@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CharacterChanger.js">
+    <Files>
+      <File FileName="Assets\CharacterChanger.js" Line="20" Column="19" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="132" Column="25" />
+      <File FileName="Assets\Scripts\NPCDialogue.js" Line="5" Column="22" />
+      <File FileName="Assets\Scripts\NotificationBox.js" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Mission.js" Line="5" Column="2" />
+      <File FileName="Assets\FlightScript.cs" Line="5" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

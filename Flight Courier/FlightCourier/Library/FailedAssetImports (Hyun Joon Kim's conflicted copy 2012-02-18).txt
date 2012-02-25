@@ -1,0 +1,2 @@
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Left.jpg
